@@ -1,7 +1,7 @@
 # Cyclistic Bike-Share Case Study
 ## Data Analysis Report: ASK & PREPARE Phases
 
-**Analyst:** [Your Name]  
+**Analyst:** Sami Bozai  
 **Date:** February 3, 2026  
 **Project:** Converting Casual Riders to Annual Members
 
